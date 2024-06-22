@@ -21,8 +21,3 @@ async def middleware(
         print(f"Failed to make request to {request.url=}\n" + traceback.format_exc())
         raise
     return response
-
-
-    """
-    - Write points for the code
-    """
