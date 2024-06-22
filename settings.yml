@@ -1,0 +1,2 @@
+default:
+  geolocation_provider: IP_API
