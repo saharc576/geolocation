@@ -1,5 +1,5 @@
 ## Instructions
-#### Prerequisities 
+#### Prerequisites  
 Make sure you have docker installed on your machine
 
 #### Run
